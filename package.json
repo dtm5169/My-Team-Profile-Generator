@@ -1,0 +1,24 @@
+{
+  "name": "my-team-profile-generator",
+  "version": "1.0.0",
+  "description": "inquirer ",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtm5169/My-Team-Profile-Generator.git"
+  },
+  "author": "Daisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtm5169/My-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/dtm5169/My-Team-Profile-Generator#readme",
+  "dependencies": {
+    "D": "^1.0.0",
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
